@@ -63,6 +63,7 @@ class Kerucut
     }
 }
 
+// membuat ovjek 
 
 $lingkaran = new Lingkaran(5);
 echo "Luas Lingkaran dengan jari-jari 5: " . $lingkaran->luas() . "\n";
