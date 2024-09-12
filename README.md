@@ -1,2 +1,3 @@
 # ppbo2024
-halo
+# nama : dzaky fahran
+# nim : h1101231047
