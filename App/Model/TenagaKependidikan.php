@@ -15,4 +15,5 @@ class TenagaKependidikan extends Pegawai {
     }
 }
 
+
 ?>
